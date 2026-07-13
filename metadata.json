@@ -1,0 +1,6 @@
+{
+  "name": "Image Resizer, Compressor & Perspective Crop",
+  "description": "An elegant, powerful client-side utility to resize, compress, and perform 4-point perspective cropping on images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
